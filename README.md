@@ -1,2 +1,1 @@
-# Portfolio
-Portfolio voor S6
+Portfolio website van S6
